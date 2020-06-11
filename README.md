@@ -8,3 +8,5 @@ A more detailed and documented version of this code will be provided on a github
 For the Celeb-A dataset, we use the official release : http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 For CityScapes and NYUv2, we use the preprocessed data made available here : https://github.com/lorenmt/mtan
+
+Along with the code, we provide in "Maximum_Roaming_supp_mat.pdf" appendices to the main paper already submitted.
