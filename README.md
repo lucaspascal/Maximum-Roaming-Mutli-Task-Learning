@@ -8,6 +8,7 @@ For the Celeb-A dataset, we use the official release : http://mmlab.ie.cuhk.edu.
 For CityScapes and NYUv2, we use the preprocessed data made available here : https://github.com/lorenmt/mtan
 
 # How to cite
+Please cite as follows if you use this work:
     Pascal, L., Michiardi, P., Bost, X.,Hüet, B., Zuluaga, M. A. (2021).
     Maximum Roaming Multi-task Learning
     Proceedings of the 35th AAAI International Conference on Artificial Intelligence, February 2-9, 2021 (in press)
